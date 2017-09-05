@@ -12,4 +12,8 @@
 ## 資料來源
 [ハイスクール・フリート - Wikipedia](https://ja.wikipedia.org/wiki/ハイスクール・フリート)
 
+[天津風 (陽炎型駆逐艦) - Wikipedia](https://ja.wikipedia.org/wiki/天津風_(陽炎型駆逐艦))
+
 ## 版權資訊
+
+本資料均擷取自維基百科， ハイスクール・フリート 是角川旗下的版權作品。
